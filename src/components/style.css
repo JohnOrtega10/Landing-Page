@@ -1,0 +1,108 @@
+/* .container {
+    width: 100%;
+    height: 100vh;
+    background-color: #eba7a4;
+  }
+  
+.wrapper {
+    width: 100%;
+    max-width: 1300px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.info {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.center-info {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.center-info h1 {
+    width: 100%;
+    text-align: center;
+    color: #eee;
+    text-shadow: 1px 2px 7px rgba(0, 0, 0, 0.6);
+    font-size: 6rem;
+    font-family: "Oswald";
+    line-height: 120%;
+}
+.center-info h2 {
+    width: 100%;
+    text-align: center;
+    color: #5c5c5c;
+    font-size: 2.5rem;
+    font-family: "Poppins";
+    line-height: 120%;
+}
+.center-info h2:nth-of-type(3) {
+    width: 100%;
+    text-align: center;
+    color: rgb(231, 90, 90);
+    font-size: 2.5rem;
+    font-family: "Poppins";
+    line-height: 120%;
+}
+
+.center-info p {
+    width: 100%;
+    text-align: justify;
+    font-size: 1rem;
+    color: #5c5c5c;
+    font-family: "Poppins";
+}
+
+.center-info button {
+    cursor: pointer;
+    width: 40%;
+    border: none;
+    outline: none;
+    font-size: 1.4rem;
+    color: #5c5c5c;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    box-shadow: 1px 2px 7px rgba(92, 92, 92, 0.3);
+    transition: 0.3s all ease;
+}
+
+.center-info Button:hover {
+    background-color: #ddd;
+    box-shadow: 1px 2px 7px rgba(92, 92, 92, 0.8);
+    transition: 0.3s all ease;
+}
+
+.imagenes {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    importante para no generar un scroll
+    overflow: hidden;
+}
+
+.colum1,
+.colum2 {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    
+}
+
+.colum2 {
+align-items: flex-end;
+}
+.colum1 img,
+.colum2 img {
+    height: 70%;
+    width: 80%;
+} */
